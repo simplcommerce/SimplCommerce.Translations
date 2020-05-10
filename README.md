@@ -1,2 +1,2 @@
-# SimplCommerce.Transaltions
+# SimplCommerce.Translations
 Translation support for SimplCommerce
